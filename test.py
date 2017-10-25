@@ -6,6 +6,7 @@ if name == 'Rama':
     
 
  print("I came from new branch")
+ print("I am conflict on new branch")
 
 else:
      print("Name other than rama. this is created as part of branch3")
